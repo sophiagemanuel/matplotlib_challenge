@@ -1,5 +1,42 @@
 # matplotlib_challenge
-Module 5 Assignment 
-In this module assignment we work with matplotlib and plotting data. Our code is seperated by the titles with '##'. We use our code to clean data we are given, create a summary statistics, create bar and pie charts, quartile, outlier, and boxplots, and correlation and regression lines.
-For this assignment, the most trouble I believe I had was when it comes to the for loop when creating the quartile, outlier, and boxplots for the four groups. I used this website for help: https://www.w3schools.com/python/python_for_loops.asp
-The code I created was based off of the examples from module 5 that we completed in class, and put them together to complete my assignment. 
+## Introduction
+In this Module 5 assignment, we work with Matplotlib to plot and visualize data. The project involves cleaning the given data, creating summary statistics, and generating various plots such as bar charts, pie charts, boxplots, and regression lines.
+
+## Features
+Data cleaning and preprocessing
+Generation of summary statistics
+Creation of bar and pie charts
+Quartile, outlier, and boxplot analysis
+Correlation and regression line plots
+
+## Prerequisites
+Python 3.x
+Jupyter Notebook
+Matplotlib
+Pandas
+NumPy
+SciPy
+
+## Data Cleaning
+The data cleaning section includes steps to load and preprocess the data, handling missing values and ensuring the data is in a suitable format for analysis.
+
+## Summary Statistics
+Summary statistics are generated to provide an overview of the data, including measures such as mean, median, and standard deviation.
+
+## Visualizations
+Various visualizations are created to analyze and present the data:
+
+**Bar Charts**: Used to compare different categories.
+**Pie Charts**: Used to show proportions of a whole.
+**Boxplots**: Used to display the distribution of data and identify outliers.
+**Regression Lines**: Used to show relationships between variables.
+For creating quartile, outlier, and boxplots, a for loop is used to iterate over four groups, following examples and assistance from W3Schools Python For Loops (https://www.w3schools.com/python/python_for_loops.asp).
+
+## Contact
+If you have any questions, feel free to contact:
+
+Name: Sophia Emanuel
+Email: sophiagemanuel@gmail.com
+LinkedIn: /Sophiaemanuel
+
+
